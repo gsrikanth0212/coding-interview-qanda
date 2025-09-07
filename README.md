@@ -1,7 +1,7 @@
 # coding-interview-qanda
 This repository offers a well-organized and thorough collection of coding interview questions commonly asked by top tech companies. Expertly curated by @[Nitish Kumar](https://www.linkedin.com/in/im-nsk/), the content serves as a valuable resource for candidates preparing for data-centric technical interviews. Credit to him for putting together such an insightful collection!
 
-I've solved the problems with solutions in SQL, PySpark, and Pandas, and I'm actively working through the remaining ones. I hope this resource proves helpful for your interview preparation and practice.
+I've solved the problems with solutions in SQL, PySpark, and Pandas on Databricks community cloud platform which allows you to run SQL and Python both. And I'm actively working through the remaining ones. I hope this resource proves helpful for your interview preparation and practice.
 
 
 - DAY77: Amazon https://lnkd.in/grn8FT5k
